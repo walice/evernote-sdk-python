@@ -5,8 +5,6 @@ Evernote API version 1.28
 
 This SDK is intended for use with Python 2.X
 
-For Evernote's beta Python 3 SDK see https://github.com/evernote/evernote-sdk-python3
-
 Overview
 --------
 This SDK contains wrapper code used to call the Evernote Cloud API from Python.
